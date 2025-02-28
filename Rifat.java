@@ -20,5 +20,5 @@ public class Rifat{
             System.out.println("jenis kelamin: Laki - Laki");
         }
         System.out.println("Umur\t: "+ (2025 - tahunlahir));
-    }
+}
 }
